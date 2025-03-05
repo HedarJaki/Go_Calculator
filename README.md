@@ -19,7 +19,7 @@ Program ini adalah kalkulator sederhana yang dibuat dengan bahasa pemrograman Go
 3. Buka terminal atau command prompt, lalu navigasikan ke direktori tempat file disimpan.
 4. Jalankan perintah berikut untuk menjalankan program:
    ```sh
-   go run kalkulator.go
+   go run main.go
    ```
 
 ## Cara Menggunakan
